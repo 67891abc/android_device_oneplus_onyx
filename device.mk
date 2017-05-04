@@ -121,9 +121,9 @@ PRODUCT_PACKAGES += \
     liboverlay \
     libtinyxml
 
-# Gello
+# Jelly
 PRODUCT_PACKAGES += \
-    Gello
+    Jelly
 
 # GPS
 PRODUCT_PACKAGES += \
